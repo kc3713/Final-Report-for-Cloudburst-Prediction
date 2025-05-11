@@ -13,7 +13,7 @@ This project focuses on predicting extreme rainfall events (cloudbursts) using h
 - `report.pdf`: The final report in PDF format.
 
 ## How to Access
-- **PDF**: Download the [report.pdf](report.pdf) file directly from this repository.
+- **PDF**: Download the [report.pdf](Cloud Burst Prediction_Final Report.pdf) file directly from this repository.
 
 ## Notes
 - This repository is public to allow access for course instructors and peers.
